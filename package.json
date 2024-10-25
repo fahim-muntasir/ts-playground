@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "url_shortener": "node ./dist/url_shortener.js"
+    "url_shortener": "node ./dist/url_shortener.js",
+    "shopping_cart": "node ./dist/shopping_cart.js"
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
